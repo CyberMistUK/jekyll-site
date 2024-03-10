@@ -42,7 +42,7 @@ urlimg: 'https://sensational-blancmange-4e81d3.netlify.app/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 # Plugins
 plugins:
