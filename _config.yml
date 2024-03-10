@@ -25,8 +25,8 @@ author: MHawkins
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://sensational-blancmange-4e81d3.netlify.app/'
-baseurl: '/'
+url: 'https://sensational-blancmange-4e81d3.netlify.app'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
