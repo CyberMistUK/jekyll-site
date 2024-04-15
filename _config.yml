@@ -38,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://sensational-blancmange-4e81d3.netlify.app/images/'
+urlimg: 'https://clockworkzed.netlify.app/images/'
 
 
 # Logo size is 600x80 pixels
